@@ -4,5 +4,5 @@ number=43
 x1=number%10
 x2=number//10
 #Print the vallue of the 'answer'.
-
-print(x1+x2)
+answer=x1+x2
+print(answer)
